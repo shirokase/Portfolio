@@ -12,9 +12,9 @@ It highlights my programming expertise and features links to my GitHub and proje
 ![website](https://github.com/user-attachments/assets/b235e313-6756-4d02-a862-3fdcbcda5f49)
  ## :pushpin: Projects  
 ![Screenshot 2024-12-13 164529](https://github.com/user-attachments/assets/6c287557-e7c8-4c48-b35a-0dafdad8cd2e)
- ## :pushpin: Skills 
+ ### :pushpin: Skills 
 ![Screenshot 2024-12-13 164909](https://github.com/user-attachments/assets/5d8a070e-95b7-4781-849b-6da3ec206e7c)
- ## :pushpin:: Contacts 
+ ### :pushpin: Contacts 
 ![Screenshot 2024-12-13 164949](https://github.com/user-attachments/assets/581b0fa6-7635-45e7-9049-bec24b0d59fe)
 
 
