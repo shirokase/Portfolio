@@ -1,45 +1,45 @@
 # :loudspeaker: Al John Portfolio Webpage
 
-##:memo: Overview of the Portfolio Webpage 
+## :memo: Overview of the Portfolio Webpage 
 A Portfolio Website is a project that showcases my information, skills, and projects. 
 It highlights my programming expertise and features links to my GitHub and projects.
 
- ##:page_facing_up: Key Features of the Portfolio Webpage 
+ ## :page_facing_up: Key Features of the Portfolio Webpage 
 
- ##:pushpin: Homepage
+ ## :pushpin: Homepage
 ![website](https://github.com/user-attachments/assets/43045420-fa85-4f72-8d93-e233d087410e)
- ##:pushpin: About 
+ ## :pushpin: About 
 ![website](https://github.com/user-attachments/assets/b235e313-6756-4d02-a862-3fdcbcda5f49)
- ##:pushpin: Projects  
+ ## :pushpin: Projects  
 ![Screenshot 2024-12-13 164529](https://github.com/user-attachments/assets/6c287557-e7c8-4c48-b35a-0dafdad8cd2e)
- ##:pushpin: Skills 
+ ## :pushpin: Skills 
 ![Screenshot 2024-12-13 164909](https://github.com/user-attachments/assets/5d8a070e-95b7-4781-849b-6da3ec206e7c)
- ##:pushpin:: Contacts 
+ ## :pushpin:: Contacts 
 ![Screenshot 2024-12-13 164949](https://github.com/user-attachments/assets/581b0fa6-7635-45e7-9049-bec24b0d59fe)
 
 
-##:clipboard: Instruction for Navigating my Portfolio Webpage
+## :clipboard: Instruction for Navigating my Portfolio Webpage
 :round_pushpin: **Homepage**
-:arrow_forward: When you open the Portfolio, it will show the homepage.
-:arrow_forward: Here there's a brief introduction to the homepage and social media links.
-:arrow_forward: Scroll down to move the About section.
+:arrow_forward: **When you open the Portfolio, it will show the homepage.**
+:arrow_forward: **Here there's a brief introduction to the homepage and social media links.**
+:arrow_forward: **Scroll down to move the About section.**
 
 :round_pushpin: **About** 
-:arrow_forward: You can see the information about me and a professional photo.
-:arrow_forward: Scroll down to move the Projects section
+:arrow_forward: **You can see the information about me and a professional photo.**
+:arrow_forward: **Scroll down to move the Projects section**
 
 :round_pushpin: **Projects**
-:arrow_forward: Here are the projects where each project has a description and image.
-:arrow_forward: There's also link to the GitHub of each project and link to the webpage.
-:arrow_forward: Scroll down to move the skills.
+:arrow_forward: **Here are the projects where each project has a description and image.**
+:arrow_forward: **There's also link to the GitHub of each project and link to the webpage.**
+:arrow_forward: **Scroll down to move the skills.**
 
 :round_pushpin: **Skills**
-:arrow_forward: This section shows my programming language skills, web development, and version control.
-:arrow_forward: Scroll down to move to the last section of Contacts.
+:arrow_forward: **This section shows my programming language skills, web development, and version control.**
+:arrow_forward: **Scroll down to move to the last section of Contacts.**
 
 :round_pushpin: **Contacts**
-Here there's contact information and social media links.
-If you click  **Get in Touch** it will let you link to my email and send a message.
+:arrow_forward: **Here there's contact information and social media links.**
+:arrow_forward: **If you click  **Get in Touch** it will let you link to my email and send a message.**
 
 ## ⚙ Installation
 
