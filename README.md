@@ -47,7 +47,7 @@ To view or install this portfolio, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/shirokase/portfolio.git
+    git clone https://github.com/shirokase/Portfolio.git
     ```
 2. :desktop_computer: **Open this [Portfolio](https://shirokase.github.io/Portfolio/)** in your browser to view the portfolio.
 
