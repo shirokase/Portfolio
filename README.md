@@ -19,23 +19,23 @@ It highlights my programming expertise and features links to my GitHub and proje
 
 
 ## :clipboard: Instruction for Navigating my Portfolio Webpage
-:round_pushpin: **Homepage**
-:arrow_forward: **When you open the Portfolio, it will show the homepage.**
-:arrow_forward: **Here there's a brief introduction to the homepage and social media links.**
-:arrow_forward: **Scroll down to move the About section.**
+:round_pushpin: **Homepage**<br>
+:arrow_forward: When you open the Portfolio, it will show the homepage.<br>
+:arrow_forward: Here there's a brief introduction to the homepage and social media links.<br>
+:arrow_forward: Scroll down to move the About section.<br>
 
-:round_pushpin: **About** 
-:arrow_forward: **You can see the information about me and a professional photo.**
-:arrow_forward: **Scroll down to move the Projects section**
+:round_pushpin: **About**<br>
+:arrow_forward: You can see the information about me and a professional photo.<br>
+:arrow_forward: Scroll down to move the Projects section.<br>
 
-:round_pushpin: **Projects**
-:arrow_forward: **Here are the projects where each project has a description and image.**
-:arrow_forward: **There's also link to the GitHub of each project and link to the webpage.**
-:arrow_forward: **Scroll down to move the skills.**
+:round_pushpin: **Projects**<br>
+:arrow_forward: Here are the projects where each project has a description and image.<br>
+:arrow_forward: There's also link to the GitHub of each project and link to the webpage.<br>
+:arrow_forward: Scroll down to move the skills.<br>
 
-:round_pushpin: **Skills**
-:arrow_forward: **This section shows my programming language skills, web development, and version control.**
-:arrow_forward: **Scroll down to move to the last section of Contacts.**
+:round_pushpin: **Skills**<br>
+:arrow_forward: This section shows my programming language skills, web development, and version control.<br>
+:arrow_forward: Scroll down to move to the last section of Contacts.<br>
 
 :round_pushpin: **Contacts**<br>
 :arrow_forward: Here there's contact information and social media links.<br>
