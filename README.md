@@ -37,9 +37,9 @@ It highlights my programming expertise and features links to my GitHub and proje
 :arrow_forward: **This section shows my programming language skills, web development, and version control.**
 :arrow_forward: **Scroll down to move to the last section of Contacts.**
 
-:round_pushpin: **Contacts**
-:arrow_forward: **Here there's contact information and social media links.**
-:arrow_forward: **If you click  **Get in Touch** it will let you link to my email and send a message.**
+:round_pushpin: **Contacts**<br>
+:arrow_forward: Here there's contact information and social media links.<br>
+:arrow_forward: If you click  **Get in Touch** it will let you link to my email and send a message.<br>
 
 ## ⚙ Installation
 
